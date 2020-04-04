@@ -1,2 +1,2 @@
 # django_polls_app
-Basic Django application
+Application on Django framework. Basic guide from documentation
